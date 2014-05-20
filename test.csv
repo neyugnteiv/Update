@@ -1,0 +1,4 @@
+line_item_id,advertiser_id,comments,revenue_value,code,revenue_type
+214233,75016,first entry,4.01,,cpm
+268334,75016,second entry,3.98,,
+268330,75016,third entry,,hello,abc
